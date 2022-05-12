@@ -1,0 +1,20 @@
+a spanning tree is a graph in which there is no branch,f
+a subnet mask has more consecutive 1s than the .corresponding default mask ,t
+a switch blocking port cannot receive or transit frames ,f
+a switch can reduce the amount of desired traffic ona -.network ,f
+a switch is the combination of a hub and a router ,f
+a syn field in udp data unit is optional ,f
+a syn segment cannot carry data it consumes one sequence number ,t
+bridges use cut-through mechanism without crc verification ,f
+broadcast on vlan of the same switch are received by _ all ports of the switch ,f
+can be the beginning address of a block of 16 2.4.6.62 classless addresses ,f
+cycles of bridges can be in a result of unknown .destination frames ,t
+d fields in wireless frames may contain nav value gus! so1i5! valeo ,t
+data link layer is responsible for carrying frames between adjacent nodes ,t
+designated port is the port that is selected as having the highest port cost ,f
+devices are assigned a subnet mask if they belong toa .subnetted network ,t
+each ethernet card has a unique mac address ,t
+router switches the packet to the appropriate outgoing interfaces ,t
+routers are not capable to read tcp data unit at all ,f
+routing tables are based on the physical addresses ,f
+rts / cts mechanism can totally solve hidden / exposed ,f
